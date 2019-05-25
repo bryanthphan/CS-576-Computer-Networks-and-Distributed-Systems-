@@ -1,6 +1,6 @@
 # CS-576-Computer-Networks-and-Distributed-Systems-
 
-Program #1: 
+Program #1 (TCP Server): 
 In your IDE (I used eclipse), you must create two separate files one named “Client”, the other “Server.” 
 The code in the "Program 1" folder will have notes detailing the functions within the two files. 
 In order to run this program, you first run the Server file, and then afterwards run the Client file. 
